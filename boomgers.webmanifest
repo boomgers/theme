@@ -1,21 +1,21 @@
 {
-"name": "Boomgers",
-"short_name": "Boomgers",
-"description": "Boomgers • Central",
-"background_color": "#030E22",
-"theme_color": "#030E22",
+"name": "Boomgers · Central",
+"short_name": "Boomgers · Central",
+"description": "Boomgers · Central",
+"background_color": "#080808",
+"theme_color": "#080808",
 "display": "browser",
 "orientation": "portrait",
 "start_url": "https://central.boomgers.com",
 "lang": "en-US",
 "icons": [
 {
-"src": "https://static.tumblr.com/j5lhf9c/j5mrp4hiv/android-chrome-192x192.png",
+"src": "https://static.tumblr.com/qwe1vzy/O2lrspvyq/android-chrome-192x192.png",
 "sizes": "192x192",
 "type": "image/png"
 },
 {
-"src": "https://static.tumblr.com/j5lhf9c/ML1rp4hhs/android-chrome-512x512.png",
+"src": "https://static.tumblr.com/qwe1vzy/tfgrspw0a/android-chrome-512x512.png",
 "sizes": "512x512",
 "type": "image/png"
 }
