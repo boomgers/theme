@@ -1,0 +1,23 @@
+{
+"name": "Boomgers · Online",
+"short_name": "Boomgers · Online",
+"description": "Boomgers · Online",
+"background_color": "#02030E",
+"theme_color": "#02030E",
+"display": "browser",
+"orientation": "portrait",
+"start_url": "https://online.boomgers.com",
+"lang": "es-MX",
+"icons": [
+{
+"src": "https://static.tumblr.com/ragfbpc/33xrtldnl/android-chrome-192x192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://static.tumblr.com/ragfbpc/0c3rtldoa/android-chrome-256x256.png",
+"sizes": "256x256",
+"type": "image/png"
+}
+]
+}
