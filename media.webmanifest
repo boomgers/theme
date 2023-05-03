@@ -1,12 +1,12 @@
 {
-"name": "Boomgers · Online",
-"short_name": "Boomgers · Online",
-"description": "Boomgers · Online",
+"name": "Boomgers · Media",
+"short_name": "Boomgers · Media",
+"description": "Boomgers · Media",
 "background_color": "#02030E",
 "theme_color": "#02030E",
 "display": "browser",
 "orientation": "portrait",
-"start_url": "https://online.boomgers.com",
+"start_url": "https://media.boomgers.com",
 "lang": "es-MX",
 "icons": [
 {
