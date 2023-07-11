@@ -7,7 +7,7 @@
 <square150x150logo src="https://static.tumblr.com/qwe1vzy/F0erspw7j/mstile-150x150.png"/>
 <square310x310logo src="https://static.tumblr.com/qwe1vzy/tB9rspw83/mstile-310x310.png"/>
 <wide310x150logo src="https://static.tumblr.com/qwe1vzy/FZGrspw8j/mstile-310x150.png"/>
-<TileColor>#02030E</TileColor>
+<TileColor>#000000</TileColor>
 </tile>
 </msapplication>
 </browserconfig>
